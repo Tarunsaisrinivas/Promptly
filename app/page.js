@@ -12,7 +12,7 @@ import CustomSolutions from "./pages/CustomSolution";
 import CustomSolutionExamples from "./pages/CustomSolutionExamples";
 import BentoGrid from "./pages/BentoGrid";
 import { Users } from "./pages/Users";
-import { FAQSection } from "./pages/FAQsection";
+import { FAQSection } from "./pages/FAQSection";
 import { Footer } from "./pages/Footer";
 import LoadingScreen from "./components/LoadingScreen";
 
